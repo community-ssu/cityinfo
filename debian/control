@@ -8,7 +8,7 @@ Package: libcityinfo0-0
 Section: libs
 Priority: extra
 Architecture: any
-Depends: ${shlibs:Depends}, osso-cities-l10n-mr | osso-cities-l10n-mr0, osso-countries-l10n-mr | osso-countries-l10n-mr0
+Depends: ${shlibs:Depends}, osso-cities-l10n-mr | osso-cities-l10n-mr0, osso-countries-l10n-mr | osso-countries-l10n-mr0, kernel-feature-errata-430973-workaround [armel]
 Description: Cities information library.
  Library providing information about set of cities.
 

@@ -1,3 +1,9 @@
+cityinfo (0.5.16-1+0m5+thumb0) unstable; urgency=low
+
+  * Thumb2 compiled
+
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sat, 10 Oct 2015 11:27:15 +0300
+
 cityinfo (0.5.16-1+0m5) unstable; urgency=low
 
   * FOSS replacement first release
